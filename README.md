@@ -1,3 +1,5 @@
+# GROWW PROJECT
+
 # 📈 Web Scraping and Stock Market Data Analysis
 
 A Python-based web scraping and exploratory data analysis project that collects stock market information from Groww and transforms it into structured data for analysis and visualization.
